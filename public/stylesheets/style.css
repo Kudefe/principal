@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One|Playfair+Display+SC|Press+Start+2P');
+
+/* font-family: 'Press Start 2P', cursive;
+font-family: 'Black Ops One', cursive;
+font-family: 'Playfair Display SC', serif; */
+
+
+
 .iback{
 
   background: #0099F7;  /* fallback for old browsers */
@@ -6,7 +14,6 @@
   
   
 }
-
 
 
 
@@ -30,6 +37,7 @@
   margin-bottom: 0em;
   font-size: 4em;
   font-weight: normal;
+  font-family: 'Black Ops One', cursive;
 }
 .masthead h2 {
   font-size: 1.7em;
@@ -94,4 +102,8 @@
     margin-top: 0.5em;
     font-size: 1.5em;
   }
+}
+
+.ui.inverted.medium.header{
+  font-family: 'Playfair Display SC', serif;
 }
